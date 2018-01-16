@@ -70,7 +70,7 @@
 	1. Do zvolení nového předsedy radou, pokud původní předseda odstoupí, je odvolán z funkce, zemře nebo z jiného důvodu pozbude své funkce.
 	2. Po dobu, kdy na něj předseda deleguje své pravomoci, což provede buď písemně, nebo tuto skutečnost oznámí jinou formou alespoň jednomu členovi rady.
 	3. Po dobu, kdy pobyt předsedy nebude znám žádnému zbývajícímu členovi rady, anebo po dobu více než jednoho měsíce nebude předseda reagovat na nejméně tři pokusy o osobní nebo elektronický kontakt obvyklým způsobem ze strany zbývajících členů rady.
-5. Pokud spolek nemá předsedu ani místopředsedu, zbývající člen rady svolá valnou hromadu a v jejím rámci zajistí ustanovení nové rady. Pro zastupování spolku navenek platí čl. 5, bod j.
+5. Pokud spolek nemá předsedu ani místopředsedu, zbývající člen rady svolá valnou hromadu a v jejím rámci zajistí ustanovení nové rady. Pro zastupování spolku navenek platí čl. 5, bod 10.
 
 ## 7. Členství ve spolku
 1. Členství je dobrovolné, přihlášku do spolku podává budoucí člen naprosto dobrovolně a zároveň může ze spolku kdykoli vystoupit.
