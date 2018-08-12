@@ -1,7 +1,7 @@
-# Stanovy spolku MZ Česko, z.s.
+# Stanovy spolku Spolek přátel ohnivé lišky
 ## 1. Základní ustanovení
-1. Název spolku je MZ Česko, z.s.
-2. Spolek sídlí ve městě Brno
+1. Název spolku je Spolek přátel ohnivé lišky
+2. Spolek sídlí ve městě Praha
 3. Spolek působí na celém území České republiky.
 4. Spolek se nečlení na organizační jednotky
 5. Spolek je založen dle zákona č. 89/2012 Sb. (občanský zákoník)
